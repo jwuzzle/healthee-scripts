@@ -1,0 +1,5 @@
+1. Script to create the locations - done
+2. Need to grab the location UUIDs - done
+3. Create a sheet that has provider NPI and location UUIDs  - done 
+4. Create a script to add locations to the provider NPI  - done 
+5. Create a script to change confidence level to 2 - done
